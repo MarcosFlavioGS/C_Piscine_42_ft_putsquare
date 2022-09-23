@@ -51,7 +51,7 @@ In this project, we needed to follow some rules
     {
       while(a != b)
       {
-        wrte();
+        write();
       }
     }
   }
