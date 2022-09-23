@@ -14,11 +14,12 @@ int main(void)
 
 ```
 in this case, the function should print the following square:
-
->A B B A
->B     B
->B     B
->C B B C
+```txt
+A B B A
+B     B
+B     B
+C B B C
+```
 ---
 In this program instead I choose to work with args, so calling **a.out 4 4** will get the expected result
 
