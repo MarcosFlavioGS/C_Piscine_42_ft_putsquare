@@ -42,7 +42,7 @@ In this project, we needed to follow some rules
     
     var = 0;
     ```
-    - Everyr variable declaration must be followed by a new line
+    - Every variable declaration must be followed by a new line
   - Functions, loops and conditional must all be followed by a new line as well
   ```C
   char func(int a, int b)
